@@ -8,7 +8,7 @@ An interactive, single-file HTML slide deck explaining **"Generative Agents: Int
 
 ## About this project
 
-This deck was built as a final group presentation (Group 23) for **"Introduction to Agent-Based Models"** — an online course offered by **Maastricht University & UNU-MERIT** (United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology), taught by Dr. Mindel Van de Laar.
+This deck was built as a final group presentation (Group 23) for **"Introduction to Agent-Based Models"** — an online course offered by **Maastricht University & UNU-MERIT** (United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology).
 
 **My contribution:** I built the HTML/CSS/JS deck itself and wrote most of the content — translating the paper's architecture (Memory Stream → Reflection → Planning) and findings into the interactive slides you see here.
 
