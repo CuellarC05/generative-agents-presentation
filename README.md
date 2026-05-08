@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML slide deck explaining **"Generative Agents: Interactive Simulacra of Human Behavior"** (Park et al., 2023) — the Stanford paper that pioneered LLM-driven agents with memory, reflection, and planning.
 
-**▶ Live demo:** https://CuellarC05.github.io/generative-agents-presentation/
+**▶ Live demo:** https://cuellarc05.github.io/generative-agents-presentation/
 
 ---
 
